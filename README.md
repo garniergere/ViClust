@@ -1,7 +1,7 @@
 # ViClust
 R scripts for SNP data from Sequenom visualisation and clustering in batch
 
-# What does it do?
+# What is ViClust doing?
 in preparation...
 
 # How to cite the ViClust tool?
