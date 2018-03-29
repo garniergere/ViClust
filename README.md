@@ -50,5 +50,5 @@ Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differen
 and French populations of the invasive tree <i>Robinia pseudoacacia </i>. Plant Ecology and Evolution 151 (1): 5–17,
 https://doi.org/10.5091/plecevo.2018.1403
 
-## Contact author about ViClust scripts
+## Contact 
 Pauline Garnier-Géré ( pauline.garniergere@inra.fr )
