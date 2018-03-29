@@ -10,7 +10,8 @@ If you are using ViClust, please cite:
 
 Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L,
 Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian
-and French populations of the invasive tree <i>Robinia pseudoacacia </i>. Plant Ecology and Evolution 
+and French populations of the invasive tree <i>Robinia pseudoacacia </i>. Plant Ecology and Evolution 151 (1): 5–17,
+https://doi.org/10.5091/plecevo.2018.1403
 
 # Contact author for questions about ViClust scripts
 Pauline Garnier-Géré ( pauline.garniergere@inra.fr )
