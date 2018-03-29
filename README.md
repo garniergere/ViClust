@@ -1,7 +1,7 @@
 ## ViClust
 **Vi**sualizing and **Clust**ering Sequenom data in batch 
 
-(R scripts for SNP data from Sequenom: standalone and Galaxy version with Python wrapper, with example files)
+(R scripts for SNP data from Sequenom: standalone R and Galaxy version with Python wrapper, with example files)
 
 ## What is ViClust doing?
 
