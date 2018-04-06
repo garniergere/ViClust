@@ -35,7 +35,7 @@ The difference between the Hclust and the Sequenom methods is that Hclust is not
 
 Both methods are however subject to caution, especially if you observe sub-structuring in any of the optimal angle value ranges for clustering, and/or intermediate values outside the optimal ranges  (see the Typer 4.0.20 User’s Guidefor more information on optimal range values).
 
-**Help tips:** If anything goes wrong (red background on ran jobs) please 1) check the format/content of the loaded xml file, 2) check the format/content of the SNP list or that of the individuals list if any (which should be a simple text format, one line per SNP or per individual).
+**Help tips:** If anything goes wrong, please 1) check the format/content of the loaded xml file, 2) check the format/content of the SNP list or that of the individuals list if any (which should be a simple text format, one line per SNP or per individual).
 
 **Literature cited** 
 Ward JH. 1963. Hierarchical Grouping to Optimize anObjective Function. Journal of the American Statistical Association. 58:236-244.
