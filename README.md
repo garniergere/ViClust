@@ -7,7 +7,7 @@
 
 This tool imports the raw xml file from the Typer-4_0_20 Sequenom equipment software and allows: 
 
-**1)** to visualize the original clusters proposed by the the Sequenom method based on mixture of Gaussian distributions (Johansen *et al.* 2013) -> (**Sequenom clusters**)
+**1)** to visualize the original clusters proposed by the Sequenom method based on mixture of Gaussian distributions (Johansen *et al.* 2013) -> (**Sequenom clusters**)
 **2)** to visualize the same clusters after proposed additional and more of less stringent filters, based on the different allele signal magnitudes -> (**Filter 1 clusters**),
 **3)** to perform an alternative hierarchical clustering method using the Ward algorithm (Ward 1963) which relaxes the constraining assumption of normal distribution for allele signals, visualize the new clusters -> (**alternative Hclust clusters**), and export the proposed genotypes assignment file.
 
