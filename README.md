@@ -11,7 +11,7 @@ This tool imports the raw xml file from the Typer-4_0_20 Sequenom equipment soft
 
 **2)** to visualize the same clusters after proposed additional and more of less stringent filters, based on the different allele signal magnitudes -> (**Filter 1 clusters**),
 
-**3)** to perform an alternative hierarchical clustering method using the Ward algorithm (Ward 1963) which relaxes the constraining assumption of normal distribution for allele signals, visualize the new clusters -> (**alternative Hclust clusters**), and export the proposed genotypes assignment file.
+**3)** to perform an alternative hierarchical clustering method using the Ward algorithm (Ward 1963) which relaxes the constraining assumption of normal distribution for allele signals, then to visualize the new clusters -> (**alternative Hclust clusters**), and to export the proposed genotypes assignment file.
 
 The xml file is loaded then parsed to extract raw data and original clustering information, and angle and magnitude values are recomputed based on raw peak height data from the different allele signals. The program gives SNPs plots across the different alternatives in batch, allows comparing and validating each SNPs more easily, and exports automatically the proposed genotype assignments, making the whole process much less time consuming.
 
