@@ -1,0 +1,4 @@
+
+ClusterSequenomPlots.Filter1.hclust.R can be run in command line under the Win dos prompt or under linux
+   (see examples of command lines at start of the program)
+ClusterSequenomPlots.Filter1.hclust.ReditorVer.R is a R editor version
