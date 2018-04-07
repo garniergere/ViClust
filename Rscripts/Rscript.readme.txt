@@ -4,5 +4,5 @@ ClusterSequenomPlots.Filter1.hclust.R can be run in command line under the Win d
 
 ClusterSequenomPlots.Filter1.hclust.ReditorVer.R is a R editor version
 
-Files in the Galaxy folder contains the Galaxy version of the R program and the xml file for the main explanation page of the Galaxy version.
+Files in the Galaxy.files folder contains the Galaxy version of the R program and the xml file for the main explanation page of the Galaxy version.
 
