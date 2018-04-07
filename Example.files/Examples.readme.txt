@@ -1,4 +1,3 @@
-Folder and files description:
 
 Folder Sequenom.plots contains examples of sequenom output plots. Here a subset list of SNP1 to SNP5 from the ViClust.example.xml raw data file is used.
 The SNPs list example is called SNPlist.example.txt and is an argument/option when running the program (see R scripts for more details)
