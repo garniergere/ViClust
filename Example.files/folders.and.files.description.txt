@@ -4,5 +4,7 @@ The SNPs list example is called SNPlist.example.txt and is an argument/option wh
 Folder Filter1.plots contains the SNP plots after an eventual additional filter on signal magnitude has been applied from the original Sequenom results
 
 Folder Hclust.plots contains the plots of the clustering performed after applying the Hierarchical Clustering method with the Ward algorithm
+You can note the difference between the proposed clustering in genotype classes with the Hclust method compared to the Sequenom method.
 
 Folder resfile contains result files described in the main readme.md page
+
