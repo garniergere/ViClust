@@ -1,0 +1,6 @@
+snp.nb	snp.name
+1	Ex.SNP1
+2	Ex.SNP2
+3	Ex.SNP3
+4	Ex.SNP4
+5	Ex.SNP5
