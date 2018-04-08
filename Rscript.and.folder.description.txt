@@ -27,4 +27,5 @@ You can note the difference between the proposed clustering in genotype classes 
 
 Subfolder Examples.files/resfile contains result files described in the main readme.md page
 
-Subfolder Examples.files/output.from.ViClust.2.Matrix contains 3 output genotypes files from the ViClust.2.Matrix.R program (see details inside program) and the corresponding snp.list.txt file
+Subfolder Examples.files/output.from.ViClust.2.Matrix contains 3 output genotypes files from the ViClust.2.Matrix.R program (see details
+inside program) and the corresponding snp.list.txt file
