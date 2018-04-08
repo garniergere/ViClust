@@ -13,4 +13,18 @@ subfolder
 
 IN Examples.files folder:
 
-resfile
+Subfolder Examples.files/Sequenom.plots contains examples of sequenom output plots. Here a subset list of SNP1 to SNP5 from the
+ViClust.example.xml raw data file is used.
+
+The SNPs list example is called SNPlist.example.txt and is an argument/option when running the program (see R scripts for more details)
+
+subfolder Examples.files/Filter1.plots contains the SNP plots after an eventual additional filter on signal magnitude has been applied from 
+the original Sequenom results
+
+Folder Examples.files/Hclust.plots contains the plots of the clustering performed after applying the Hierarchical Clustering method with the
+Ward algorithm
+You can note the difference between the proposed clustering in genotype classes with the Hclust method compared to the Sequenom method.
+
+Subfolder Examples.files/resfile contains result files described in the main readme.md page
+
+Subfolder Examples.files/output.from.ViClust.2.Matrix contains 3 output genotypes files from the ViClust.2.Matrix.R program (see details inside program) and the corresponding snp.list.txt file
