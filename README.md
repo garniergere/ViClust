@@ -44,7 +44,7 @@ See Rscript.and.folder.description.txt for further details.
 
 **Help tips:** If anything goes wrong, please 1) check the format/content of the loaded xml file, 2) check the format/content of the SNP list or of the individuals' list if any is used (these should be simple text files, one line per SNP or per individual).
 
-**Literature cited** 
+**Literature cited** </br> 
 Ward JH. 1963. Hierarchical Grouping to Optimize an Objective Function. Journal of the American Statistical Association. 58:236-244. </br>
 Johansen PP, Andersen JD, Børsting C, Morling N (2013) Evaluation of the iPLEX Sample ID Plus Panel designed for the Sequenom MassARRAY system. A SNP typing assay developed for human identification and sample tracking based on the SNP for ID panel. Forensic Science International: Genetics 7: 482–487. https://doi.org/10.1016/j.fsigen.2013.04.009
 
