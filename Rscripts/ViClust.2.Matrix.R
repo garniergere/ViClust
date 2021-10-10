@@ -1,6 +1,6 @@
 ######################################################################################
 ###### ViClust results files format to Matrix SNP format ######
-###### R script by Pauline Garnier-Géré, June 2015
+###### R script by Pauline Garnier-GÃ©rÃ©, June 2017
 ###### loads ViClust result file and transform it into a classical matrix genotype file format
 
 ###### input file= ViClust result file (the most complete one ie res.with.hclust.txt in example):  header == sampleId.new	assayId	ori.genotypeId	Angle	magnitude	call.filter1	HClust.groups
@@ -48,7 +48,7 @@ write.table(snp.list,"snp.list.txt", quote=FALSE, row.names=FALSE, sep="\t")
 ind.list<-levels(snpdat$sampleId.new)
 write.table(as.data.frame(ind.list),"ind.list.txt", quote=FALSE, row.names=FALSE, sep="\t")
 
-## defining structure data for snp as matrix
+## defining data structure for snp as matrix
 ind.nb<-length(levels(snpdat$sampleId.new))
 snp.nb<-length(levels(snpdat$assayId))
 
